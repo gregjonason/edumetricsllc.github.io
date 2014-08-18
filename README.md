@@ -1,4 +1,4 @@
 edumetricsllc.github.io
-=======================
+====================
 
-edumetrics, LLC
+eduMetrics, LLC site
